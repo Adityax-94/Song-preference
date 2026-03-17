@@ -15,26 +15,7 @@ A **supervised machine learning** system that predicts whether a user will **lik
 
 ---
 
-## 📌 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Dataset](#dataset)
-- [ML Pipeline](#ml-pipeline)
-  - [Data Preprocessing](#data-preprocessing)
-  - [Models Trained](#models-trained)
-  - [Model Performance](#model-performance)
-  - [Best Model](#best-model)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running Locally](#running-locally)
-- [Contributing](#contributing)
-- [License](#license)
-
----
 
 ## 📖 Overview
 
