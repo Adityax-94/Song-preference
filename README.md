@@ -8,7 +8,8 @@ A **supervised machine learning** system that predicts whether a user will **lik
 
 **Try it now →** [songs-recommender-by-aditya.streamlit.app](https://songs-recommender-by-aditya.streamlit.app/)
 
-![Spotify Song Preference Predictor](https://raw.githubusercontent.com/Adityax-94/Song-preference/main/screenshot.png)
+<img width="3644" height="2570" alt="songs-recommender-by-aditya streamlit app_" src="https://github.com/user-attachments/assets/9493cde9-6f7c-439b-8e45-09db025688fb" />
+
 
 > Enter any song's audio features and get an instant prediction on whether you'd like it.
 
